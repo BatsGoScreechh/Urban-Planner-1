@@ -1,0 +1,11 @@
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\bin\Debug\netcoreapp2.2\urban-planner-1.deps.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\bin\Debug\netcoreapp2.2\urban-planner-1.runtimeconfig.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\bin\Debug\netcoreapp2.2\urban-planner-1.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\bin\Debug\netcoreapp2.2\urban-planner-1.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\bin\Debug\netcoreapp2.2\urban-planner-1.pdb
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\obj\Debug\netcoreapp2.2\urban-planner-1.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\obj\Debug\netcoreapp2.2\urban-planner-1.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\obj\Debug\netcoreapp2.2\urban-planner-1.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\obj\Debug\netcoreapp2.2\urban-planner-1.AssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\obj\Debug\netcoreapp2.2\urban-planner-1.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\urban-planner-1\obj\Debug\netcoreapp2.2\urban-planner-1.pdb
